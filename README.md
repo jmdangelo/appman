@@ -1,0 +1,2 @@
+# appman
+manage your executables
